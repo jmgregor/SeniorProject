@@ -1,6 +1,6 @@
 # Blink Detection and Modeling
-Imaging Science Senior Project
-Jared Gregor (jmg2586@rit.edu)
+###Imaging Science Senior Project
+###Jared Gregor (jmg2586@rit.edu)
 
 ### Why Blinks?
 “Deep neural networks for video-based eye tracking have demonstrated
